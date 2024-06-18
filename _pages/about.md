@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-I'm a first year doctoral student in the Department of Chinese and Bilingual Studies at The Hong Kong Polytechnic Univeristy (PolyU). My research interest includes the transfer of sociolinguistic factors bewteen L1 and L2, social perception of different voice qualities, and language acquisition of bilingual popluation.
+I'm a first year doctoral student in the Department of Chinese and Bilingual Studies at The Hong Kong Polytechnic Univeristy (PolyU). My research focus on the transfer of sociolinguistic factors bewteen L1 and L2, social perception of different voice qualities, and language acquisition of bilingual popluation. Currently, I am working on the project related to the perception of creaky voice. 
